@@ -93,4 +93,4 @@
 
 ## Appendix
 
-![Screen Shot 2019-06-15 at 2.10.58](./images/Screen Shot 2019-06-15 at 2.10.58.png)
+![Screen Shot 2019-06-15 at 2.10.58](https://github.com/yh549848/ods/blob/master/09_red_black_trees/images/Screen%20Shot%202019-06-15%20at%202.10.58.png)
