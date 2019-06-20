@@ -32,7 +32,6 @@
 ## (Left-leaning) Red-Black trees
 
 - 高さが logarithmic な二分探索木（SSetインターフェースの実装のひとつ）
-- すべてのリーフの深さは等しい
 
 
 - 赤黒木は以下の性質を持つ．
